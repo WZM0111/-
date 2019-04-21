@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>王志萌的个人简历</title>
+	
+	
+<style type="text/css">
+	body{
+		width:60%;
+		text-align:center;
+	}
+</style>
+	<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/css/bootstrap.min.css">
+  <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdn.staticfile.org/popper.js/1.12.5/umd/popper.min.js"></script>
+  <script src="https://cdn.staticfile.org/twitter-bootstrap/4.1.0/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+     <div class="bg-info text-white" align="center">
+            <h1>个人简历</h1>    
+        </div>
+     <table class="table table-hover">
+		 
+    <tbody>
+      <tr>
+        <td class="bg-info text-white">基本信息</td>
+        <td>
+			<br><span><strong>姓名：</strong>王志萌</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span><strong>性别：</strong>男</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span><strong>电话：</strong>158****3035</span><br>
+                <span><strong>邮箱：</strong>1154193551@qq.com</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		</td>
+        
+      </tr>
+      <tr>
+        <td class="bg-info text-white">专业技能</td>
+        <td><p>掌握html+css的页面布局和JavaScript</p>
+			<p>掌握java开发语言和SQL数据库的使用</p>
+		  </td>
+        
+      </tr>
+      <tr>
+        <td class="bg-info text-white">教育背景</td>
+        <td><p>学历：大学本科；</p>
+                <p>毕业院校：山东师范大学；</p>
+                <p>专业：计算机科学与技术；</p>
+                <p>毕业年份：2020年。</p>
+		  </td>
+       
+      </tr>
+	  <tr>
+        <td class="bg-info text-white">项目经验</td>
+        <td> <ul>轮播图:</ul>
+                <li>在项目中负责使用JavaScript编码实现轮播效果以及各个按钮的功能</li>
+			<br>
+             <ul>某电缆公司项目:</ul>
+                <li>在项目中负责网页的前台实现与后台维护</li>
+		  </td>
+        
+      </tr>
+		<tr>
+        <td class="bg-info text-white">自我评价</td>
+        <td> <p>热爱前端的工作，对于自身实现的每一个交互式效果或者完美的页面布局会有极大的成就感，这促使着我不断的而又饥渴的汲取着前端的知识，希望自己能够做的更好，这也使我对前端工作有极大的激情。</p>
+		  </td>
+        
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
